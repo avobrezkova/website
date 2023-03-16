@@ -3,32 +3,33 @@
 title: Anastasia Obrezkova
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Anastasia
+last_name: Obrezkova
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: students
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: People's Friendship University of Russia (RUDN University)
+    url: https://eng.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Anastasia Obrezkova is an undergraduate student at the People's Friendship University of Russia at the Faculty of Physics, Mathematics and Natural Sciences and in the field of study Mathematics and Mechanics. Her research interests include information and communication technologies in the areas of design, creation and testing of software, support and administration of information and communication systems and databases.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Communication systems
   - Information Retrieval
+  - Photography
 
 # Education to show in About widget
 education:
@@ -80,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anastasia Obrezkova is an undergraduate student at the People's Friendship University of Russia at the Faculty of Physics, Mathematics and Natural Sciences and in the field of study Mathematics and Mechanics. Her research interests include information and communication technologies in the areas of design, creation and testing of software, support and administration of information and communication systems and databases.
 {style="text-align: justify;"}
