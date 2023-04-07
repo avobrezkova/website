@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Personal site
-date: 2022-10-24
+date: 2022-04-08
 type: landing
 
 sections:
@@ -17,17 +17,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: 80%
+          icon: python
           icon_pack: fab
         - name: Statistics
-          description: 100%
-          icon: chart-line
+          description: 15%
+          icon: statistics
           icon_pack: fas
         - name: Photography
-          description: 10%
-          icon: camera-retro
+          description: 90%
+          icon: camera
           icon_pack: fas
   - block: experience
     content:
@@ -41,27 +41,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Scientific work
+          company: RUDN
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-x
+          location: Russia
+          date_start: '2022-09-09'
+          date_end: '2023-01-02'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Writing a program
+              * Deriving formulas from scientific articles
+              * Academic translations
+        - title: Individual project "Astrophysics. Star Map"
+          company: MBOU "Lyceum №33"
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Russia
+          date_start: '2021-09-10'
+          date_end: '2022-05-26'
+          description: Physics
+          
     design:
       columns: '2'
   - block: accomplishments
@@ -77,30 +78,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url:
+          date_end: '2019-03-10'
+          date_start: '2018-10-04'
+          description: 'Winner of the regional stage of the All-Russian Olympiad for Schoolchildren in Mathematics'
+          organization: Ivanovo region
+          organization_url: 
+          title: Mathematics Olympiad
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: 
+          date_end: '2021-04-15'
+          date_start: '2020-10-23'
+          description: 'Winner of the regional stage of the All-Russian Olympiad for Schoolchildren in English'
+          organization: Ivanovo region
+          organization_url: 
+          title: English Olympiad
+          url: 
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_end: ''
+          date_start: '2022-09-25'
+          description: 'Our work is based on the buddy for foreigners system. Ask for help from your personal tutor, who will guide you and help you in difficult situations throught your studies.'
+          organization: OHANA
+          organization_url: 
+          title: School of Volunteers
+          url: 'https://www.rudn.ru/life/volunteering-life/volonterskie-obedineniya-rudn/volonterskiy-otdel-ohana-organ-studencheskogo-soveta-rudn'
     design:
       columns: '2'
   - block: collection
