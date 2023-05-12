@@ -1,5 +1,5 @@
 ---
-title: Last_week 17.04-23.04
+title: Last_week 08.05-15.05
 subtitle: How was I last week?
 # Summary for listings and search engines
 summary: How was I last week?
@@ -8,10 +8,10 @@ summary: How was I last week?
 projects: []
 
 # Date published
-date: '2023-12-13T00:00:00Z'
+date: '2023-05-13T00:00:00Z'
 
 # Date updated
-lastmod: '2023-12-13T00:00:00Z'
+lastmod: '2023-05-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -47,7 +47,7 @@ print('hello')
 
 ## My last week
 
-I had a wonderful time last week doing lots of tasks and work. This included lab work, programming, and creating reports, presentations, and papers. In addition, I was able to relax this weekend outside in the nice weather.
+The week was great, because it was Victory Day, the celebration of the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War of 1941-1945. I spent that time with my family in St. Petersburg and saw the majestic parade and the fantastic fireworks display. Also, I did not forget about my studies, including laboratory work, tests and papers in various disciplines, and attached all my work to TUIS on time.
 
 I think I spent last week productive and useful because I completed all my assignments and work on time and spent my free time with my favorite people and activities.
 
